@@ -45,7 +45,7 @@ public class Curso
             Console.WriteLine(alumnos[i].getNombre());
         }
     }
-    public bool MostrarAlumnosCon15Faltas()
+    public void MostrarAlumnosCon15Faltas()
     {
         int i = 0;
 
