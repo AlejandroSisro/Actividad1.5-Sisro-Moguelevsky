@@ -16,7 +16,7 @@ public class Curso
             {
                 alumnoEncontrado = true;
             }
-            i++
+            i++;
         }
         if (alumnoEncontrado == false)
         {
@@ -34,7 +34,7 @@ public class Curso
             {
                 alumnoEncontrado = true;
             }
-            i++
+            i++;
         }
         return alumnoEncontrado;
     }
@@ -55,7 +55,7 @@ public class Curso
             {
                 Console.WriteLine(alumnos[i].getNombre());
             }
-            i++
+            i++;
         }
     }
 }
